@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "yasp",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Yet Another Start Page extension",
+    "description": "The description of the application"
+  }
+}
